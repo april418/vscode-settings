@@ -1,0 +1,25 @@
+{
+    // Editor settings
+    "editor.autoIndent": true,
+    "editor.fontFamily": "Ricty for Powerline",
+    "editor.fontSize": 16,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": true,
+    "editor.tabCompletion": "on",
+    "editor.tabSize": 2,
+    "editor.renderControlCharacters": true,
+    "editor.renderFinalNewline": true,
+    "editor.renderIndentGuides": true,
+    "editor.renderWhitespace": "boundary",
+    // Workbench settings
+    "workbench.colorTheme": "Solarized Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    // terminal settings
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    // typescript settings
+    "typescript.locale": "ja",
+    // SalesforceDX Code Companion extension settings
+    "dx-code-companion.autosave.enabled": true,
+    "dx-code-companion.manageconflict.enabled": true,
+}
